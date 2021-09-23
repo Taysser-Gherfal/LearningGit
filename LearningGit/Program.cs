@@ -8,6 +8,8 @@ namespace LearningGit
         {
             // this is a comment
             Console.WriteLine("Hello World!");
+
+            // this is a different comment
             Console.WriteLine("We are learning Git");
             
         }
